@@ -1,0 +1,39 @@
+.bg-image{
+    background-image: url('../img/about_hero.png');
+    background-position: center center;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+    
+}
+.c{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}.c2{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.font{
+    font-size: 70px;
+    color: #0b1c39;
+}
+.gd:link {
+    color: #0b1c39;
+    text-decoration: none;
+}
+.gd:visited {
+    color: #0b1c39;
+    text-decoration: none;
+}
+.card{
+    margin-top: 20px;
+
+}
+.mg{
+    margin-left: 50px;
+    margin-right: 50PX;
+}
